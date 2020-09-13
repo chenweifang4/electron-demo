@@ -1,0 +1,17 @@
+{
+  "name": "my-first-electron-app",
+  "version": "1.0.0",
+  "description": "my frist electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.1"
+  }
+}
